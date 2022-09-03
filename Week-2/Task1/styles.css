@@ -1,0 +1,21 @@
+header
+{
+    align-items: center;
+}
+
+aside{
+    border-color: black;
+ border-radius: 20px;
+ color: aqua;
+ height :20px;
+
+}
+
+#par
+{
+    border :3px;
+    border:solid;
+    border-color: blue;
+    column-count: 5;
+    column-rule-style: dotted;
+}
