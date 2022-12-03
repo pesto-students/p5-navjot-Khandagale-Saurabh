@@ -1,0 +1,11 @@
+.desgin{
+    background-color: blueviolet;
+    height: 60%;
+    
+    align-items: center;
+    position: absolute;
+     top:20%;
+     left :20%;
+     bottom: 40%;
+     right: 20%;
+}
