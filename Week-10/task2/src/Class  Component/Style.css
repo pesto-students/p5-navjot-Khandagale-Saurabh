@@ -1,0 +1,9 @@
+.designTodo{
+    width: 20%;
+    background-color:bisque;
+    height: 120px;
+    border-radius:  20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-top: 20px;
+}

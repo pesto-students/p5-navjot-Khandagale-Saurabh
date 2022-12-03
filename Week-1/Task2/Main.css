@@ -1,0 +1,141 @@
+*{
+    font: Lato;
+  margin-top: 8px;
+}
+.nav{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    
+    
+}
+.item1
+{
+    padding-top: 30px;
+}
+.item2
+{
+    padding-top: 30px;
+}
+.item3
+{
+    padding-top: 30px;
+}
+.item4
+{
+    padding-top: 30px;
+}.item5
+{
+    padding-top: 30px;
+}.item6
+{
+    padding-top: 30px;
+}.item7
+{
+    padding-top: 30px;
+}.item8
+{
+    padding-top: 30px;
+}.item9
+{
+    padding-top: 30px;
+}
+
+
+.greybox
+{
+    height: 240px;
+    width: 1200px;
+    background-color: grey;
+    color: white;
+    
+    position:absolute;
+    margin-top: -160px;
+    margin-left: 32px;
+    
+}
+
+.Bluebox
+{
+    height: 140px;
+    width: 1235px;
+    background-color: rgba(49, 49, 235, 0.74);
+    color: white;
+
+   
+}
+#bord
+{
+    height: 158px;
+}
+#bord2
+{
+    height: 120px;
+    margin-right: 10px;
+}
+.parent{
+    margin: 20px 20px 20px 20px;
+    display: flex;
+    justify-content: flex-start;
+    
+    
+}
+.parent2{
+    margin: 20px 20px 20px 20px;
+    display: flex;
+    justify-content: flex-start;
+    
+    
+}
+.manageText{
+  height: 300px;
+margin-left:30px ;
+  
+}
+.ManageTable{
+    position: absolute;
+    margin-left: 32px;
+    margin-top:240px;
+    
+}
+
+.atend
+{
+    display: flex;
+    align-items:flex-end;
+    margin-top: 70px;
+}
+.atend2
+{
+    display: flex;
+    justify-content: space-between;
+      margin-left: 585px;
+    align-items:flex-end;
+    width: 445px;
+
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 1200px;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  #TextChange
+  {
+    color:blue;
+
+  }
+  .item13
+  {
+
+  }

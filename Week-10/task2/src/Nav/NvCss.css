@@ -1,0 +1,27 @@
+div ul {
+    color: blue;
+
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+
+    margin-left: 10px;
+}
+
+#oneLeft {
+    float: right;
+    margin-right: 5px;
+
+}
+.Nav11{
+    background-color: aliceblue;
+    width: 100%;
+    height: 20%;
+}
+#startNav{
+float: left;
+color: rgb(245, 180, 245);
+font-size: larger;
+}

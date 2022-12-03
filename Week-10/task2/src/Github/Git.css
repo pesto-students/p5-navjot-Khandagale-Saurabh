@@ -1,0 +1,63 @@
+#one{
+    right:20px
+}
+.outter{
+    height: 700px;
+    width: 1200px;
+   
+    color: rgb(96, 201, 201);
+    border-width: 3px;
+}
+.abc{
+    display: block;
+    background-color: black;
+  
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+
+@media(width<=600px){
+    #one{
+        right:20px
+    }
+    .outter{
+        height: 70%;
+        width: 100%;
+       
+        color: rgb(129, 24, 124);
+        border-width: 3px;
+    }
+    .abc{
+        display: block;
+        background-color: black;
+      
+    }
+    img{
+        height: 90%;
+        width: 100%;
+    }
+}
+
+@media(width>=6001   width<=768px){
+    #one{
+        right:20px 
+    }
+    .outter{
+        height: 700px;
+        width: 1200px;
+       
+        color: rgb(55, 27, 212);
+        border-width: 3px;
+    }
+    .abc{
+        display: block;
+        background-color: black;
+      
+    }
+    img{
+        height: 300px;
+        width: 300px;
+    }
+}
